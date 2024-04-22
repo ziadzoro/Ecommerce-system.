@@ -1,2 +1,2 @@
 # Ecommerce-system.
-online shopping
+it is a project that shows some products that you buy and their prices
